@@ -46,7 +46,7 @@ providers:
     # to build. The former uses a normal Docker daemon in the cluster. Because this has to run in privileged mode,
     # this is less secure than Kaniko, but in turn it is generally faster. See the
     # [Kaniko docs](https://github.com/GoogleContainerTools/kaniko) for more information on Kaniko.
-    buildMode: local-docker
+    buildMode: cluster-docker
     # Configuration options for the `cluster-docker` build mode.
     clusterDocker:
       # Enable [BuildKit](https://github.com/moby/buildkit) support. This should in most cases work well and be more
