@@ -90,7 +90,7 @@
     "mocha-logger": "^1.0.6",
     "moment": "^2.24.0",
     "node-emoji": "^1.10.0",
-    "node-forge": "^0.9.1",
+    "node-forge": "^0.10.0",
     "normalize-path": "^3.0.0",
     "normalize-url": "^4.5.0",
     "p-queue": "^6.2.1",
