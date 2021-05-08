@@ -116,7 +116,7 @@
     "tmp-promise": "^2.0.2",
     "toposort": "^2.0.2",
     "ts-stream": "^2.0.1",
-    "typeorm": "^0.2.21",
+    "typeorm": "^0.2.25",
     "typescript-memoize": "^1.0.0-alpha.3",
     "uniqid": "^5.2.0",
     "unzipper": "^0.10.5",
