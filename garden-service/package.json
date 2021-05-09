@@ -188,7 +188,7 @@
     "chai": "^4.2.0",
     "gulp": "^4.0.2",
     "gulp-pegjs": "^0.2.0",
-    "handlebars": "^4.5.3",
+    "handlebars": "^4.7.7",
     "is-subset": "^0.1.1",
     "linewrap": "^0.2.1",
     "md5": "^2.2.1",
